@@ -38,7 +38,7 @@ export const Home = () => {
             </nav>
             <section id="profile">
                 <div class="section__pic-container">
-                    <img src="./assets/profile-pic.png"  />
+                    <img src="./assets/profile-pic.png" alt="Varinder singh profile" />
                 </div>
                 <div class="section__text">
                     <p class="section__text__p1">Hello, I'm</p>
@@ -70,7 +70,7 @@ export const Home = () => {
                     <div class="section__pic-container">
                         <img
                             src="./assets/about-pic.png"
-                            
+                            alt="Profile"
                             class="about-pic"
                         />
                     </div>
